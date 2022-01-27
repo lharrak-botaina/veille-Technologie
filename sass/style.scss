@@ -1,0 +1,17 @@
+$color1 :pink;
+$color2 : rgb(116, 116, 156);
+$color3:rgb(107, 38, 107);
+
+h1{
+    color: $color1;
+}
+p{
+    color: $color2;
+}
+.container2{
+    
+    h3{
+        color: $color3;
+
+    }
+}
